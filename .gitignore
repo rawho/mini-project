@@ -3,3 +3,4 @@ env/
 raw_dataset/
 dataset_kddcup/
 processed_cse_cic/
+__pycache__
